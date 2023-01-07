@@ -1,4 +1,4 @@
-namespace TicTacGame
+﻿namespace TicTacGame
 {
     internal static class Program
     {

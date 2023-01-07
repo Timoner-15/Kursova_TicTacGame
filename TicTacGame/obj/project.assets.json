@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\Desktop\\Tik Tak Game C#\\TicTacGame\\TicTacGame\\TicTacGame.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\Desktop\\Tik Tak Game C#\\TicTacGame\\Kursova_TicTacGame\\TicTacGame\\TicTacGame.csproj",
       "projectName": "TicTacGame",
-      "projectPath": "C:\\Users\\Home\\Desktop\\Tik Tak Game C#\\TicTacGame\\TicTacGame\\TicTacGame.csproj",
+      "projectPath": "C:\\Users\\Home\\Desktop\\Tik Tak Game C#\\TicTacGame\\Kursova_TicTacGame\\TicTacGame\\TicTacGame.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\Desktop\\Tik Tak Game C#\\TicTacGame\\TicTacGame\\obj\\",
+      "outputPath": "C:\\Users\\Home\\Desktop\\Tik Tak Game C#\\TicTacGame\\Kursova_TicTacGame\\TicTacGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
